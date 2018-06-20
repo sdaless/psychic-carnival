@@ -1,0 +1,3 @@
+PROBLEM #2:
+
+One standout example of recursion that I found in real life was in a restroom located in the lobby of my dormitory.  When you first walk in, there's a standing area that leads into the room with the bathroom stalls.  In this standing area, each wall has an edge-to-edge mirror that blends into the other.  In addition to offering people the ability to scrutinize themselves from many different angles, if you stand in front of the mirror from a certain place within the room, you can see your reflection for miles.  Like the recursion examples we discussed in class, specifically the examples where people held pictures of themselves holding pictures in the same pose as the original picture, the mirrors in the dormitory lobby's bathroom offer a similar image. 
